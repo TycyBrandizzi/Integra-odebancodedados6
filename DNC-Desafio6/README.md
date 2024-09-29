@@ -1,11 +1,6 @@
 # DNC-Desafio6
 
-Modelagem de um banco de dados relacional juntamente com uma API integrando esse banco
-
-## Modelagem do Banco de Dados
-
-![Banco de Dados](https://github.com/iLuiszin/DNC-Desafio6/assets/79981019/971f9abf-aab4-4aae-ad4e-e4b8b86461f3)
-
+Modelagem de banco de dados relacional com API integrada
 
 ## Variáveis de Ambiente
 
