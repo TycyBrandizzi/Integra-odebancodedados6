@@ -2,7 +2,7 @@
 
 
 
-Para o projeto DNC-Desafio6 de modelagem de banco de dados relacional com API integrada, as seguintes linguagens e tecnologias foram utilizadas:
+Para o projeto de modelagem de banco de dados relacional com API integrada, as seguintes linguagens e tecnologias foram utilizadas:
 
 
 JavaScript
